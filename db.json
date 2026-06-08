@@ -117,6 +117,20 @@
     { "id": "7834512", "aktywna": true },
     { "id": "9901234", "aktywna": false }
   ],
+  "prosument": [
+    {
+      "klient_id": "9901234",
+      "depozyt_pln": 312.8,
+      "energia_oddana_kwh": 165,
+      "energia_pobrana_kwh": 180,
+      "cena_odkupu_rcem": 0.75,
+      "historia_depozyt": [
+        { "m": "Grudzień 2024", "depozyt": 312.8, "energia_oddana": 165 },
+        { "m": "Listopad 2024", "depozyt": 285.6, "energia_oddana": 120 },
+        { "m": "Październik 2024", "depozyt": 251.2, "energia_oddana": 95 }
+      ]
+    }
+  ],
   "profile":{
     "name":"typicode"
   }
