@@ -59,6 +59,8 @@
     },
     {
       "id": "9901234",
+      "kwota": 0,
+      "termin": null,
       "status": "nadplata",
       "nadplata": 45.2,
       "depozyt": 312.8,
@@ -109,11 +111,6 @@
       "m": "Listopad 2024",
       "kwota": 120.0
     }
-  ],
-  "efaktura": [
-    { "id": "4521893", "aktywna": false },
-    { "id": "7834512", "aktywna": true },
-    { "id": "9901234", "aktywna": false }
   ],
   "prosument": [
     {
