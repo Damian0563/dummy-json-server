@@ -59,8 +59,6 @@
     },
     {
       "id": "9901234",
-      "kwota": 0,
-      "termin": null,
       "status": "nadplata",
       "nadplata": 45.2,
       "depozyt": 312.8,
