@@ -2,7 +2,7 @@
   "klienci": [
     {
       "id": "1-DWL",
-      "pesel4": "4812",
+      "pesel4": "1234",
       "imie": "John",
       "nazwisko": "Doe",
       "email": "john.doe@example.com",
