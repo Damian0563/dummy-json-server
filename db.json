@@ -6,8 +6,16 @@
       "imie": "John",
       "nazwisko": "Doe",
       "email": "john.doe@example.com",
-      "adres": "ul. Lipowa 12/4, 00-123 Warszawa",
-      "typ": "odbiorca"
+      "adres": "ul. Lipowa 12/4, 00-123 Warszawa-Śródmieście",
+      "typ": "odbiorca",
+      "pakiety":[
+        {
+          "nazwa":"Serwis+",
+          "opis":"Pakiet Serwis+ obejmuje kompleksową obsługę techniczną, w tym inspekcje, wymianę licznika oraz pomiary. Zapewnia szybki dostęp do wykwalifikowanych techników, którzy dbają o prawidłe funkcjonowanie instalacji elektrycznej i fotowoltaicznej. Dodatkowo, pakiet zawiera wsparcie w zakresie audytów energetycznych, co pozwala na optymalizację zużycia energii i obniżenie kosztów. Dzięki Serwisowi+, klienci mogą cieszyć się spokojem i pewnością, że ich instalacje są w dobrych rękach, a wszelkie problemy będą szybko rozwiązywane.",
+          "maksymalna_liczba_wizyt": 4,
+          "aktualna_liczba_wizyt": 3
+        }
+      ]
     }
   ],
   "salda": [
