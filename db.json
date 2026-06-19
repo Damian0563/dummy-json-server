@@ -37,6 +37,35 @@
           "s": "oplacone"
         }
       ]
+    },
+    {
+      "id": "1-DWL",
+      "kwota": 0,
+      "termin": "2026-07-15",
+      "status": "oplacone",
+      "ost": {
+        "data": "2026-06-10",
+        "kwota": 142.3
+      },
+      "sr_kwh": 145,
+      "biezacy_kwh": 138,
+      "hist": [
+        {
+          "m": "Maj 2026",
+          "kwota": 142.3,
+          "s": "oplacone"
+        },
+        {
+          "m": "Kwiecień 2026",
+          "kwota": 156.8,
+          "s": "oplacone"
+        },
+        {
+          "m": "Marzec 2026",
+          "kwota": 168.4,
+          "s": "oplacone"
+        }
+      ]
     }
   ],
   "faktury": [
@@ -57,6 +86,24 @@
       "klient_id": "1-CAJ5",
       "m": "Sierpień 2024",
       "kwota": 185.2
+    },
+    {
+      "id": "FV/2026/05/1-DWL",
+      "klient_id": "1-DWL",
+      "m": "Maj 2026",
+      "kwota": 142.3
+    },
+    {
+      "id": "FV/2026/04/1-DWL",
+      "klient_id": "1-DWL",
+      "m": "Kwiecień 2026",
+      "kwota": 156.8
+    },
+    {
+      "id": "FV/2026/03/1-DWL",
+      "klient_id": "1-DWL",
+      "m": "Marzec 2026",
+      "kwota": 168.4
     }
   ],
   "prosument": [
@@ -81,6 +128,30 @@
           "m": "Październik 2024",
           "depozyt": 251.2,
           "energia_oddana": 95
+        }
+      ]
+    },
+    {
+      "klient_id": "1-DWL",
+      "depozyt_pln": 487.5,
+      "energia_oddana_kwh": 245,
+      "energia_pobrana_kwh": 138,
+      "cena_odkupu_rcem": 0.78,
+      "historia_depozyt": [
+        {
+          "m": "Maj 2026",
+          "depozyt": 487.5,
+          "energia_oddana": 245
+        },
+        {
+          "m": "Kwiecień 2026",
+          "depozyt": 412.3,
+          "energia_oddana": 198
+        },
+        {
+          "m": "Marzec 2026",
+          "depozyt": 356.1,
+          "energia_oddana": 172
         }
       ]
     }
